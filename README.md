@@ -1,75 +1,30 @@
-# Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# foxflue-project
 
-## Setup
 
-Make sure to install the dependencies:
+## Introduction
 
-```bash
-# npm
-npm install
+Link: [https://foxflue-project.vercel.app/](https://foxflue-project.vercel.app/) 
 
-# pnpm
-pnpm install
+- I have created this project for the foxflue assignment.
+- I have developed the UI fully.
+- I have implemented the pop-up functionality, and users can capture images using web-cam
+- The Maps functionality is not fully implemented.
+- The project is deployed on Vercel.
 
-# yarn
-yarn install
+## Local Environment Setup
+1. Clone this Repository
+    ```bash
+    git clone https://github.com/crediblebilal/foxflue-project.git
+    cd foxflue-project
+    ```
 
-# bun
-bun install
-```
+3. Install required node modules
+     ```bash
+    npm install
+    ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+4. Start the Application
+    ```bash
+    npm run dev
+    ```
