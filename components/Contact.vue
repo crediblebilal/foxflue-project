@@ -6,12 +6,12 @@
       <p>+91-9906121212</p>
     </div>
     <div class="flex">
-      <div class="rounded-xl bg-gray-200 px-4 py-1 mx-1 text-center">
-        <Icon name="material-symbols:calendar-month-outline-sharp" class=" text-4xl font-light text-[#4287f5]" />
+      <div class="rounded-xl bg-gray-200 px-4 py-1 mx-1 text-center cursor-pointer">
+        <Icon name="ph:chat-circle-fill" class=" text-4xl font-light text-[#4287f5]" />
         <p class=" text-cyan-700">Msg</p>
       </div>
-      <div class="rounded-xl bg-gray-200 px-4 py-1 mx-1 text-center">
-        <Icon name="material-symbols:calendar-month-outline-sharp" class=" text-4xl font-light text-[#4287f5]" />
+      <div class="rounded-xl bg-gray-200 px-4 py-1 mx-1 text-center cursor-pointer">
+        <Icon name="material-symbols:call-sharp" class=" text-4xl font-light text-[#4287f5]" />
         <p class=" text-cyan-700">Call</p>
       </div>
     </div>

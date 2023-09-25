@@ -53,17 +53,12 @@ export default {
   data() {
     return {
       showImageCaptureDialog: false,
-      imageSrc: null, // This will store the captured image as a Base64 string
     };
   },
   methods: {
     openImageCaptureDialog() {
       // Open the image capture dialog
       this.showImageCaptureDialog = true;
-    },
-    handleImageCaptured(base64Image) {
-      // Handle the captured image (base64Image)
-      this.imageSrc = base64Image;
     },
   },
 };

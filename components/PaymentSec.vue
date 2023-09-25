@@ -3,7 +3,7 @@
     <div class="flex justify-between ">
       <p class="text-xl font-medium">
         <span>
-          <Icon name="ic:round-access-time" class="text-2xl text-amber-900" />
+          <Icon name="ph:clock-clockwise-fill" class="text-2xl font-bold text-amber-900" />
         </span>
         <span class="ml-2 ">Payment Pending</span>
       </p>
