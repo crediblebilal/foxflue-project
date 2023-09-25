@@ -8,7 +8,7 @@
 
       <div class="p-3 bg-orange-200">
         <!-- // here -->
-        <div class="camera-button flex justify-evenly mb-2">
+        <div class="camera-button flex space-x-1 justify-evenly mb-2">
           <button type="button" class="button p-2 rounded-md bg-green-500 hover:bg-green-600" @click="openCamera">
             <span v-if="!isCameraOpen">Open Camera</span>
             <span v-else>Close Camera</span>
